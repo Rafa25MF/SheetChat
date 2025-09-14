@@ -7,7 +7,7 @@ import re
 # ============================
 # 1. Configurar Gemini
 # ============================
-genai.configure(api_key="AIzaSyC7K0Nj3Y1gTZ0P9LOZ9qPlrYNEI439rFU")
+genai.configure(api_key="SUA-CHAVE-KEY")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # ============================
@@ -206,3 +206,4 @@ class ChatBotPlanilha(ctk.CTk):
 if __name__ == "__main__":
     app = ChatBotPlanilha()
     app.mainloop()
+
