@@ -35,5 +35,5 @@ SheetChat é um **chatbot inteligente para planilhas**, que permite interagir co
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/planilha-bot.git
-cd planilha-bot
+git clone [https://github.com/seu-usuario/planilha-bot.git
+cd planilha-bot](https://github.com/Rafa25MF/SheetChat/blob/main/SheetChat.py)
