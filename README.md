@@ -2,6 +2,9 @@
 
 SheetChat é um **chatbot inteligente para planilhas**, que permite interagir com arquivos Excel ou CSV e obter respostas rápidas sobre os dados contidos neles. O bot entende perguntas em linguagem natural e pode analisar múltiplas abas de uma planilha, fornecendo respostas claras e organizadas.
 
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()  
+[![Python](https://img.shields.io/badge/python-3.10-blue?logo=python)]()  
+[![License](https://img.shields.io/badge/license-Rafa25MF-green)]()  
 ---
 
 ## 🔹 Funcionalidades
