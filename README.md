@@ -30,9 +30,22 @@ SheetChat é um **chatbot inteligente para planilhas**, que permite interagir co
 
 ---
 
-## 🔹 Como Rodar
+## ⚙️ Tecnologias Utilizadas  
 
-1. Clone o repositório:
+| Funcionalidade | Biblioteca |
+|----------------|------------|
+| Linguagem principal | [Python](https://www.python.org/) 🐍 |
+| Manipulação de dados em planilhas | [Pandas](https://pandas.pydata.org/) |
+| Inteligência Artificial (LLM) | [Google Generative AI](https://ai.google.dev/) |
+| Interface gráfica moderna | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) |
+| Interface gráfica padrão | [Tkinter](https://docs.python.org/3/library/tkinter.html) |
+| Expressões regulares | [re (Regex)](https://docs.python.org/3/library/re.html) |
+
+---
+
+## 📦 Instalação das Dependências  
+
+Para instalar todas as bibliotecas necessárias de uma vez:  
 
 ```bash
-git clone https://github.com/Rafa25MF/SheetChat/blob/main/SheetChat.py
+pip install pandas google-generativeai customtkinter
